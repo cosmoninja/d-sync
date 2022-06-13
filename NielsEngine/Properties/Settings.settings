@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NielsEngine.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="accesskey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">k6bnoeWFBo3SFQ0s8OesprEiG7cq0pzg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
